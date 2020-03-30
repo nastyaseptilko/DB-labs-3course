@@ -1,0 +1,15 @@
+D:\Учёба\3 curs\2 сем\DB\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\Учёба\3 curs\2 сем\DB\Lab2\Lab2\obj\Debug\MainWindow.g.cs
+D:\Учёба\3 curs\2 сем\DB\Lab2\Lab2\obj\Debug\App.g.cs
+D:\Учёба\3 curs\2 сем\DB\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.cache
+D:\Учёба\3 curs\2 сем\DB\Lab2\Lab2\obj\Debug\Lab2_MarkupCompile.lref
+D:\Учёба\3 curs\2 сем\DB\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Учёба\3 curs\2 сем\DB\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Учёба\3 curs\2 сем\DB\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Учёба\3 curs\2 сем\DB\Lab2\Lab2\obj\Debug\MainWindow.baml
+D:\Учёба\3 curs\2 сем\DB\Lab2\Lab2\obj\Debug\Lab2.g.resources
+D:\Учёба\3 curs\2 сем\DB\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\Учёба\3 curs\2 сем\DB\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\Учёба\3 curs\2 сем\DB\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\Учёба\3 curs\2 сем\DB\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Учёба\3 curs\2 сем\DB\Lab2\Lab2\obj\Debug\Lab2.pdb

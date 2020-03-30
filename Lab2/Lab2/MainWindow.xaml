@@ -1,0 +1,35 @@
+﻿<Window x:Class="Lab2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <DataGrid Grid.Row="0" Grid.ColumnSpan="3" Grid.Column="0" AutoGenerateColumns="False"
+                  Name="datarid"
+                  CanUserAddRows="False" CanUserDeleteRows="False" CanUserReorderColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Orders" Binding="{Binding Path=orders}" Width="*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Items" Binding="{Binding  Path=items}" Width="*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Clients" Binding="{Binding  Path=clients}" Width="auto"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <TextBox x:Name="txbLogin1"  Foreground="Black" FontSize="25" Padding="5 0 0 2" BorderThickness="0" MaxLength="25" Margin="0.467,123,8.067,258" Grid.Column="1"/>
+        <PasswordBox x:Name="txbPassword1" Foreground="Black" FontSize="25" Padding="5 0 0 2" BorderThickness="0" Margin="4.467,178,10.067,205" Grid.Column="1"/>
+        <TextBox x:Name="txbLogin"  Foreground="Black" FontSize="25" Padding="5 0 0 2" BorderThickness="0" Margin="264.467,166,-0.4,205" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <Button Content="Delete" Name="Back" Click="Back_Click" MinHeight="50" Grid.Column="0" Margin="0,215,264.067,105.4" Grid.ColumnSpan="2"/>
+        <Button Content="Update" Name="Update" Click="Update_Click" MinHeight="50" Grid.Column="1" Margin="0.467,215,0.067,105.4"/>
+        <Button Content="Condition" Name="Condition" Click="Condition_Click" MinHeight="50" Grid.Column="1" Grid.ColumnSpan="2" Margin="264.467,215,-0.4,105.4"/>
+    </Grid>
+</Window>
