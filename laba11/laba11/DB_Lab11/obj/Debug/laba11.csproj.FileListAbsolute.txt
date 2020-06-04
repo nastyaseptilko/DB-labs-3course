@@ -1,0 +1,36 @@
+D:\Univer\sem6\database\labs\laba11\DB_Lab11\bin\Debug\DB_Lab11.exe.config
+D:\Univer\sem6\database\labs\laba11\DB_Lab11\bin\Debug\DB_Lab11.exe
+D:\Univer\sem6\database\labs\laba11\DB_Lab11\bin\Debug\DB_Lab11.pdb
+D:\Univer\sem6\database\labs\laba11\DB_Lab11\bin\Debug\EntityFramework.dll
+D:\Univer\sem6\database\labs\laba11\DB_Lab11\bin\Debug\EntityFramework.SqlServer.dll
+D:\Univer\sem6\database\labs\laba11\DB_Lab11\bin\Debug\System.Data.SQLite.dll
+D:\Univer\sem6\database\labs\laba11\DB_Lab11\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Univer\sem6\database\labs\laba11\DB_Lab11\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Univer\sem6\database\labs\laba11\DB_Lab11\bin\Debug\EntityFramework.xml
+D:\Univer\sem6\database\labs\laba11\DB_Lab11\bin\Debug\EntityFramework.SqlServer.xml
+D:\Univer\sem6\database\labs\laba11\DB_Lab11\bin\Debug\System.Data.SQLite.xml
+D:\Univer\sem6\database\labs\laba11\DB_Lab11\bin\Debug\System.Data.SQLite.dll.config
+D:\Univer\sem6\database\labs\laba11\DB_Lab11\obj\Debug\laba11.csprojAssemblyReference.cache
+D:\Univer\sem6\database\labs\laba11\DB_Lab11\obj\Debug\laba11.csproj.CopyComplete
+D:\Univer\sem6\database\labs\laba11\DB_Lab11\obj\Debug\DB_Lab11.exe
+D:\Univer\sem6\database\labs\laba11\DB_Lab11\obj\Debug\DB_Lab11.pdb
+D:\Учёба\3 curs\2 сем\DB\laba11\laba11\DB_Lab11\obj\Debug\laba11.csprojAssemblyReference.cache
+D:\Учёба\3 curs\2 сем\DB\laba11\laba11\DB_Lab11\obj\Debug\laba11.csproj.CoreCompileInputs.cache
+D:\Учёба\3 curs\2 сем\DB\laba11\laba11\DB_Lab11\obj\Debug\laba11.csproj.CopyComplete
+D:\Учёба\3 curs\2 сем\DB\laba11\laba11\DB_Lab11\obj\Debug\DB_Lab11.exe
+D:\Учёба\3 curs\2 сем\DB\laba11\laba11\DB_Lab11\obj\Debug\DB_Lab11.pdb
+D:\Учёба\3 curs\2 сем\DB\laba11\laba11\DB_Lab11.exe.config
+D:\Учёба\3 curs\2 сем\DB\laba11\laba11\DB_Lab11.exe
+D:\Учёба\3 curs\2 сем\DB\laba11\laba11\DB_Lab11.pdb
+D:\Учёба\3 curs\2 сем\DB\laba11\laba11\DB_Lab11\bin\Debug\DB_Lab11.exe.config
+D:\Учёба\3 curs\2 сем\DB\laba11\laba11\DB_Lab11\bin\Debug\DB_Lab11.exe
+D:\Учёба\3 curs\2 сем\DB\laba11\laba11\DB_Lab11\bin\Debug\DB_Lab11.pdb
+D:\Учёба\3 curs\2 сем\DB\laba11\laba11\DB_Lab11\bin\Debug\EntityFramework.dll
+D:\Учёба\3 curs\2 сем\DB\laba11\laba11\DB_Lab11\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учёба\3 curs\2 сем\DB\laba11\laba11\DB_Lab11\bin\Debug\System.Data.SQLite.dll
+D:\Учёба\3 curs\2 сем\DB\laba11\laba11\DB_Lab11\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Учёба\3 curs\2 сем\DB\laba11\laba11\DB_Lab11\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Учёба\3 curs\2 сем\DB\laba11\laba11\DB_Lab11\bin\Debug\EntityFramework.xml
+D:\Учёба\3 curs\2 сем\DB\laba11\laba11\DB_Lab11\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учёба\3 curs\2 сем\DB\laba11\laba11\DB_Lab11\bin\Debug\System.Data.SQLite.xml
+D:\Учёба\3 curs\2 сем\DB\laba11\laba11\DB_Lab11\bin\Debug\System.Data.SQLite.dll.config

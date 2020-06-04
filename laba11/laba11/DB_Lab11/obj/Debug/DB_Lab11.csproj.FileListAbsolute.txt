@@ -1,0 +1,51 @@
+D:\study3course\6thsem\Db\Labs\DB_Lab11\DB_Lab11\bin\Debug\DB_Lab11.exe.config
+D:\study3course\6thsem\Db\Labs\DB_Lab11\DB_Lab11\bin\Debug\DB_Lab11.exe
+D:\study3course\6thsem\Db\Labs\DB_Lab11\DB_Lab11\bin\Debug\DB_Lab11.pdb
+D:\study3course\6thsem\Db\Labs\DB_Lab11\DB_Lab11\bin\Debug\EntityFramework.dll
+D:\study3course\6thsem\Db\Labs\DB_Lab11\DB_Lab11\bin\Debug\EntityFramework.SqlServer.dll
+D:\study3course\6thsem\Db\Labs\DB_Lab11\DB_Lab11\bin\Debug\System.Data.SQLite.dll
+D:\study3course\6thsem\Db\Labs\DB_Lab11\DB_Lab11\bin\Debug\System.Data.SQLite.EF6.dll
+D:\study3course\6thsem\Db\Labs\DB_Lab11\DB_Lab11\bin\Debug\System.Data.SQLite.Linq.dll
+D:\study3course\6thsem\Db\Labs\DB_Lab11\DB_Lab11\bin\Debug\EntityFramework.xml
+D:\study3course\6thsem\Db\Labs\DB_Lab11\DB_Lab11\bin\Debug\EntityFramework.SqlServer.xml
+D:\study3course\6thsem\Db\Labs\DB_Lab11\DB_Lab11\bin\Debug\System.Data.SQLite.xml
+D:\study3course\6thsem\Db\Labs\DB_Lab11\DB_Lab11\bin\Debug\System.Data.SQLite.dll.config
+D:\study3course\6thsem\Db\Labs\DB_Lab11\DB_Lab11\obj\Debug\DB_Lab11.csprojAssemblyReference.cache
+D:\study3course\6thsem\Db\Labs\DB_Lab11\DB_Lab11\obj\Debug\DB_Lab11.csproj.CoreCompileInputs.cache
+D:\study3course\6thsem\Db\Labs\DB_Lab11\DB_Lab11\obj\Debug\DB_Lab11.csproj.CopyComplete
+D:\study3course\6thsem\Db\Labs\DB_Lab11\DB_Lab11\obj\Debug\DB_Lab11.exe
+D:\study3course\6thsem\Db\Labs\DB_Lab11\DB_Lab11\obj\Debug\DB_Lab11.pdb
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\DB_Lab11\DB_Lab11\bin\Debug\DB_Lab11.exe.config
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\DB_Lab11\DB_Lab11\bin\Debug\DB_Lab11.exe
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\DB_Lab11\DB_Lab11\bin\Debug\DB_Lab11.pdb
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\DB_Lab11\DB_Lab11\bin\Debug\EntityFramework.dll
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\DB_Lab11\DB_Lab11\bin\Debug\EntityFramework.SqlServer.dll
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\DB_Lab11\DB_Lab11\bin\Debug\System.Data.SQLite.dll
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\DB_Lab11\DB_Lab11\bin\Debug\System.Data.SQLite.EF6.dll
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\DB_Lab11\DB_Lab11\bin\Debug\System.Data.SQLite.Linq.dll
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\DB_Lab11\DB_Lab11\bin\Debug\EntityFramework.xml
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\DB_Lab11\DB_Lab11\bin\Debug\EntityFramework.SqlServer.xml
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\DB_Lab11\DB_Lab11\bin\Debug\System.Data.SQLite.xml
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\DB_Lab11\DB_Lab11\bin\Debug\System.Data.SQLite.dll.config
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\DB_Lab11\DB_Lab11\obj\Debug\DB_Lab11.csprojAssemblyReference.cache
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\DB_Lab11\DB_Lab11\obj\Debug\DB_Lab11.csproj.CoreCompileInputs.cache
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\DB_Lab11\DB_Lab11\obj\Debug\DB_Lab11.csproj.CopyComplete
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\DB_Lab11\DB_Lab11\obj\Debug\DB_Lab11.exe
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\DB_Lab11\DB_Lab11\obj\Debug\DB_Lab11.pdb
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\11\DB_Lab11\bin\Debug\DB_Lab11.exe.config
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\11\DB_Lab11\bin\Debug\DB_Lab11.exe
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\11\DB_Lab11\bin\Debug\DB_Lab11.pdb
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\11\DB_Lab11\bin\Debug\EntityFramework.dll
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\11\DB_Lab11\bin\Debug\EntityFramework.SqlServer.dll
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\11\DB_Lab11\bin\Debug\System.Data.SQLite.dll
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\11\DB_Lab11\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\11\DB_Lab11\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\11\DB_Lab11\bin\Debug\EntityFramework.xml
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\11\DB_Lab11\bin\Debug\EntityFramework.SqlServer.xml
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\11\DB_Lab11\bin\Debug\System.Data.SQLite.xml
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\11\DB_Lab11\bin\Debug\System.Data.SQLite.dll.config
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\11\DB_Lab11\obj\Debug\DB_Lab11.csprojAssemblyReference.cache
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\11\DB_Lab11\obj\Debug\DB_Lab11.csproj.CoreCompileInputs.cache
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\11\DB_Lab11\obj\Debug\DB_Lab11.csproj.CopyComplete
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\11\DB_Lab11\obj\Debug\DB_Lab11.exe
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\11\DB_Lab11\obj\Debug\DB_Lab11.pdb
